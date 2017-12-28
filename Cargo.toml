@@ -1,0 +1,9 @@
+[package]
+name = "gfapi_bug"
+version = "0.1.0"
+authors = ["Chris Holcombe <xfactor973@gmail.com>"]
+
+[dependencies]
+gfapi-sys = "*"
+log = "*"
+simplelog = "*"
